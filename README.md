@@ -1,70 +1,7 @@
-# Getting Started with Create React App
+# Buscador multiplo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+O anki é um programa open source cujo objetivo é criar cartões de memorização, ele é bem versátil e contém várias ferramentas que ajudam e a opção de personalizar os decks de acordo com necessidade. é uma excelente ferramenta para o aprendizado de idiomas. Com isso em mente, resolvi usar o anki para melhorar meu inglês e na hora de usar a ferramenta me deparei com um problema, o primeiro foi o tempo que eu passava para pesquisar a palavra. eu tinha que entrar em quatro sites diferentes para pesquisar essa palavra, o uso dela em contexto, o audio de nativos dessa palavra e no googe imagens algo relacionao a essa palavra, só que isso demandava muito tempo, então resolvi fazer essa aplicação que faz isso, basta eu colocar a palavra no input e pesquisar que automaticamente irá se abrir esse quatro sites já com respectiva imagem e com isso ganho tempo de produtivada a mais. A aplicação foi feita em react e se encontra nesse link ==> https://lovely-mine.surge.sh/
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![sdsd](https://user-images.githubusercontent.com/92898767/201500168-68924088-e70d-43fb-8eab-39872f582f84.jpg)
